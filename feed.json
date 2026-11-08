@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "moneydevru.in",
+    "description": "",
+    "home_page_url": "https://moneydevru.in",
+    "feed_url": "https://moneydevru.in/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dhananjaya"
+    },
+    "items": [
+    ]
+}
