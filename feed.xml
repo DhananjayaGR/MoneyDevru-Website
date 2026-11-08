@@ -3,10 +3,22 @@
     <title>moneydevru.in</title>
     <link href="https://moneydevru.in/feed.xml" rel="self" />
     <link href="https://moneydevru.in" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-11-07T23:48:09+05:30</updated>
     <author>
         <name>Dhananjaya</name>
     </author>
     <id>https://moneydevru.in</id>
 
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>Dhananjaya</name>
+        </author>
+        <link href="https://moneydevru.in/welcome/"/>
+        <id>https://moneydevru.in/welcome/</id>
+
+        <updated>2026-11-07T23:47:23+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
