@@ -9,5 +9,17 @@
         "name": "Dhananjaya"
     },
     "items": [
+        {
+            "id": "https://moneydevru.in/dumb/",
+            "url": "https://moneydevru.in/dumb/",
+            "title": "Dumb",
+            "author": {
+                "name": "Dhananjaya"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-25T18:51:03+05:30",
+            "date_modified": "2026-11-25T18:51:03+05:30"
+        }
     ]
 }
